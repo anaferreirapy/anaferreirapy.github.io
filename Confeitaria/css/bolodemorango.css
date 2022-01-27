@@ -298,8 +298,4 @@ background-color: #dddd;
 	padding-right: 6%;
 	}
 }
-footer{
-grid-column-start: 1;
-grid-column-end: 4;
-background-color: #dddd;
-}
+

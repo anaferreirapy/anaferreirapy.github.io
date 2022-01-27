@@ -221,6 +221,12 @@ h2{
 	height: 105px;
 	cursor: pointer;
 }
+footer{
+	grid-column-start: 1;
+	grid-column-end: 5;
+	background-color: #dddd;
+}
+
 @media (max-width: 575.98px) and (orientation: portrait){
 	aside{
 		display: block;
@@ -292,9 +298,4 @@ h2{
 	.footercolumns div{
 	padding-right: 6%;
 	}
-footer{
-grid-column-start: 1;
-grid-column-end: 4;
-background-color: #dddd;
-}
 }
