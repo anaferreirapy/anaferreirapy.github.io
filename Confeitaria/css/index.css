@@ -197,7 +197,7 @@ footer{
 	padding-right: 5%;
 	}
 	.btnComprar{
-		float: right;
+		margin-right: -35px;
 	}
 }
 @media (max-width: 767.98px) and (orientation: landscape){
@@ -216,4 +216,13 @@ footer{
 	.btnComprar{
 	float: right;
 	}
+}
+@media (min-width: 1024px){
+ section{
+ 	margin-top: 50px;
+ }
+ footer{
+ 	margin-top: 30px;
+ 	height: 175px;
+ }
 }
