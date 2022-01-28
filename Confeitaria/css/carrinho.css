@@ -101,10 +101,10 @@ section p {
 section div div {
  font-size: 15px;
 }
-#tcc{
+.tcc{
  margin-top: 20px;
 }
-#nameProd{
+.nameProd{
  padding-left: 30%;
  margin-top: -18%;
  font-weight: bold;
@@ -307,9 +307,4 @@ background-color: #dddd;
 	.footercolumns div{
 	padding-right: 6%;
 	}
-footer{
-grid-column-start: 1;
-grid-column-end: 4;
-background-color: #dddd;
-}
 }
